@@ -1,0 +1,16 @@
+   private void timer1_Tick(object sender, EventArgs e)
+        {
+            bool z = (GetAsyncKeyState(Keys.Z) & 1) != 0;
+           
+            
+            if (z == true)
+            {
+             
+         //code
+               
+
+             
+
+            }
+          
+        }
